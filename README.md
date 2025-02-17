@@ -1,4 +1,4 @@
-# AI4OSS
+# MSE-AI
 现代软件工程：AI 驱动的开放式协作方法与实践（Modern Software Engineering with AI，MSE-AI）
 
 ### 课程主旨
